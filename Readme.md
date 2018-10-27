@@ -19,7 +19,7 @@ It downloads all the files from the listed courses to the user's computer.
 **Windows** - Extract the MooDLD.rar file before use.
 
 2. Install Dependencies
-  - **mechanize**  <br/>On Ubuntu use `sudo apt-get install python-mechanize`<br/>
+  - **Mechanize**  <br/>On Ubuntu use `sudo apt-get install python-mechanize`<br/>
   On Mac use `sudo pip install mechanize`
 
   - **Tkinter** <br/>
